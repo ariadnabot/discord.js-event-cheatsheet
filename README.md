@@ -1,6 +1,11 @@
 # discord.js-event-cheatsheet
 A quick and dirty fleshing out of the discord.js event listeners .
 
+# Warning
+Discord.Js version 11 has fallen behind the current API specs therefore is no longer a valid library version to use.
+However somepeople still use it?!
+Anyways Discord.js v11 will hard crash if you encounter a stage channel, so just switch to v12.
+
 # Credit 
 
 Original file from https://gist.github.com/koad/316b265a91d933fd1b62dddfcc3ff584 made by [Koad](https://gist.github.com/koad)
